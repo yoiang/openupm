@@ -1,0 +1,19 @@
+name: com.sta-blockhead.websocket-sharp
+displayName: websocket-sharp
+description: A C# implementation of the WebSocket protocol client and server
+repoUrl: 'https://github.com/Adorkable-forkable/websocket-sharp'
+parentRepoUrl: 'https://github.com/sta/websocket-sharp'
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - network
+hunter: yoiang
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: null
+readme: 'master:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1618897014255
